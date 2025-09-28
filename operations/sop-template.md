@@ -29,4 +29,8 @@ How often it should be updated, and by who.
 ## 💡 Notes
 - Keep it on a **single page** whenever possible.  
 - Link out to detail (scripts, configs) rather than stuffing them in.  
-- Treat SOPs as living docs — review quarterly.  
+- Treat SOPs as living docs — review quarterly.
+
+## 📝 Reminder
+SOPs without a “why” become ignored checklists. Always capture why the process exists.  
+
