@@ -1,10 +1,13 @@
 # Mentorship Style
 *Curiosity over condescension.*
 
-I often get asked about how to identify when someone lacks knowledge in a particular area - for instance, if they pronounce SQL as S.Q.L. Does this indicate their proficiency in the language? This scenario is common, observed from recruiters to executives and consultants. While understanding industry terminology is crucial, penalizing individuals for using different terms is narrow-minded.
+People love to nitpick. I’ve seen recruiters, execs, and even consultants judge someone’s ability because they pronounce SQL as S.Q.L. instead of “sequel.” Does that really tell you how good they are? No. It just tells you they learned differently.
 
-Why? Because it diminishes knowledge and the essence of human learning. Many successful developers and industry leaders are self-taught, acquiring skills through self-paced learning. They absorb knowledge by doing, sometimes supplementing it with formal education. Criticizing them for not knowing a specific industry term undermines their achievements.
+A lot of the best developers and leaders I’ve worked with were self-taught. They learned by doing, they tested everything themselves, and they picked up knowledge outside the classroom. Correcting someone’s pronunciation or jargon doesn’t measure their ability. It just shows you care more about being “right” than being useful.
 
-So, the next time you feel compelled to correct someone, remember not to condescend while offering guidance. Instead, inquire "why" and maintain a human-centric approach. 
+So when you mentor, don’t condescend. Ask why. Be curious. See how they think. Help them grow instead of slapping them for not knowing a piece of trivia.
 
-Seeing the HUMAN is far more imporant than being 'right' all the time.
+## Lessons
+- Skill is about results, not jargon.  
+- Curiosity builds better teams than condescension ever will.  
+- See the human first. Always.
