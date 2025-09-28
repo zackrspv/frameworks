@@ -7,6 +7,8 @@
 4. **Execution** – Implement in waves, document SOPs, train teams.  
 5. **Measurement** – Track adoption, cost, and performance.  
 
+> 📝 Note: Never chase the “perfect” tool. Select what fits your stage now, with a plan to mature later.  
+
 ## 🧭 Notes
 - Always start with **simplification** before optimization.  
 - Adoption isn’t a people problem — it’s usually a **systems problem**.  
