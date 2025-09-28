@@ -1,20 +1,21 @@
 # Cost Optimization Framework
-*Cutting costs without cutting capability.*
 
-## 🚩 The Problem
-Most orgs let SaaS sprawl eat their budgets alive. Everyone swipes the company card for “must-have” tools, infra is oversized, and nobody audits renewals. Result? Bloated spend, low adoption, and leadership shocked at end-of-year bills.
+## Context
 
-## 🔧 Framework
-1. **Audit Everything** – List every subscription, license, and cloud service.  
-2. **Consolidate** – Merge overlapping tools into one platform where possible.  
-3. **Right-Size Infra** – Match servers and clusters to actual usage, not wishful thinking.  
-4. **Negotiate Vendors** – Never accept sticker price. Renegotiate terms, bundle services, or move providers.  
-5. **Cut Redundancy** – If nobody can explain why a tool matters → kill it.  
+Most orgs overspend on IT because no one questions the invoice. SaaS sprawl, overlapping vendors, and “it’s only $20 per user” thinking add up fast.
 
-## 📈 Example
-At CHR, infra had grown bloated across AWS + DigitalOcean + random SaaS. By auditing every platform, consolidating into a right-sized multi-cloud setup, and renegotiating vendor contracts, I drove a **42% reduction in tech spend** while improving stability and security.
+## Steps
 
-## 💡 Lessons
-- SaaS waste is invisible until you dig.  
-- Cost cutting ≠ capability cutting — done right, it actually boosts performance.  
-- Always tie savings back to **adoption + outcomes** or you’ll just repeat the cycle.
+1. **Audit** – List every tool, license, contract.
+2. **Cut** – Eliminate duplicates, kill “nice-to-haves” no one uses.
+3. **Consolidate** – Find platforms that cover multiple needs without bloating.
+4. **Renegotiate** – Vendors expect you not to push back. Prove them wrong.
+5. **Measure** – Track actual adoption and real spend over time.
+
+## Example
+
+At CHR we cut 42% of IT spend in under six months without losing capability. In fact, adoption went up because we simplified.
+
+## Principle
+
+Cost optimization isn’t about slashing budgets. It’s about killing waste so you can reinvest in growth.
