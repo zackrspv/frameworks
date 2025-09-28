@@ -11,3 +11,6 @@ Most orgs buy tools → adoption stalls at 40–50%.
 
 ## 📈 Outcome
 This is how I drove adoption at CHR from 40% → **90%+**.  
+
+## 🧭 Principle
+Leaders don’t know better — they judge better. Listen to supervisors and workers; your role is alignment and sustainability, not micromanagement.  
