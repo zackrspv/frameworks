@@ -1,30 +1,22 @@
-# The "Why" Framework
-*Always start with why before solving what.*
+# The “Why” Framework
 
-In business, the "why" behind a need is just as crucial as the need itself. Companies frequently engage consultants or agencies to fulfill requirements or achieve business objectives.
+*Always start with why before you solve what.*
 
-A common pitfall occurs when the focus is solely on the final solution. Companies, irrespective of their size, often overlook the importance of understanding the underlying reasons. They acknowledge the necessity of completing a task, allocate resources, and anticipate successful outcomes, sometimes overlooking the fundamental question of "why."
+In business, the “why” behind a request is just as important as the request itself. Too many companies throw money at solutions without understanding the reason.
 
-Having a proficient Business Analyst (BA) or Product Owner (PO) can make a significant difference. They delve into the reasons behind the goals, seeking to understand the purpose and the problem-solving aspect. Instead of solely creating new solutions, the emphasis shifts towards leveraging existing systems or implementing software extensions to achieve the desired objectives.
+A good BA or PO earns their keep by digging into the why. Is the issue really a missing feature, or is it a training gap? Do you need new software, or can an extension get it done?
 
-Need a framework? Not sure how to begin asking why? Don’t have a BA or PO to rely on?
+## How to Run It
 
-1. Analyze the pain points reported: ask the users who have the issue, scour your helpdesk and ask the leadership and frontline workers what those pain points are. Don’t discount feedback, or excuse incompetence, both are mitigating factors for goals.
+1. Ask the people with the pain points. Check helpdesk tickets, talk to frontline, talk to leadership. Don’t ignore feedback.
+2. Write the goals down. Be specific about what you want fixed.
+3. For each goal, ask why. Is it about efficiency? Revenue? Compliance? Or just “nice to have”?
+4. Check if training, customization, or extensions can solve it.
+5. Talk to the SMEs. Don’t forget your own power users.
+6. Document the goals you can’t fix internally.
+7. Prioritize based on business impact and user impact.
+8. Build the action plan or hire a consultant with this groundwork in hand.
 
-2. Developer your goals: write them down, focus on how to solve them and the ideal solution you need.
+## Principle
 
-3. For each goal, ask why you have these pain points and why you want it solved. Is it operational excellence? Is it bottom line goals? Is efficiency? Or, is it just a nice to have?
-
-4. Check your existing systems to see if training, customization or extensions can solve or mitigate the goal.
-
-5. Reach out to the SMEs of the systems you are having issues with. Don’t discount SaaS support teams and your own staff that have not only built the systems but actively use those systems. You would be surprised by how many of your staff have experimented and checked every single option on the system.
-
-6. Document those goals you cannot solve or mitigate above
-
-7. Prioritize the goals based on need, user affects, and business bottom line
-
-8. Develop the action plan to implement or hire the consultant to do it.
-
-It’s really that simple. And once you hire that consultant doing all of the above will significantly streamline their work and focus.
-
-So, when addressing issues or devising plans, it is essential not to disregard the significance of the "why." The “what” shouldn’t be your only focus.
+Skipping “why” makes you burn money on the wrong “what.”
