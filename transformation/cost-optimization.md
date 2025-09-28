@@ -1,21 +1,24 @@
 # Cost Optimization Framework
+*Cutting costs is not about slashing. It’s about right-sizing.*
 
-## Context
+Most orgs bleed money because nobody checks what tools, vendors, or infra are actually being used. Shadow SaaS, bloated clouds, duplicated subscriptions. Then leadership wonders why IT spend is climbing every quarter.
 
-Most orgs overspend on IT because no one questions the invoice. SaaS sprawl, overlapping vendors, and “it’s only $20 per user” thinking add up fast.
+When I optimize costs, I don’t just cut. I stabilize, simplify, and right-size. That way costs go down, but performance and adoption actually go up.
 
-## Steps
-
-1. **Audit** – List every tool, license, contract.
-2. **Cut** – Eliminate duplicates, kill “nice-to-haves” no one uses.
-3. **Consolidate** – Find platforms that cover multiple needs without bloating.
-4. **Renegotiate** – Vendors expect you not to push back. Prove them wrong.
-5. **Measure** – Track actual adoption and real spend over time.
+## How I Approach Cost Optimization
+1. Audit every tool and vendor. If you can’t show usage, it’s gone.  
+2. Kill duplicates. If three tools do the same thing, you only need one.  
+3. Renegotiate contracts. Vendors drop prices when you call them on it.  
+4. Right-size infra. Don’t run 64-core instances if your load sits at 20%.  
+5. Shift workloads smartly. Cloud, on-prem, hybrid — depends on cost and control.  
+6. Automate the reporting. You need real-time spend visibility, not end-of-quarter surprises.  
+7. Validate with users. If cutting a tool kills productivity, rethink it.  
+8. Lock it in. Document, assign owners, set review cycles.  
 
 ## Example
+At Colorado Home Realty, tech spend was bloated with overlapping platforms and oversized infra. After auditing everything and consolidating, we cut costs by 42% while adoption hit 90%+. Agents trusted the tools, leadership finally had clear reporting, and infra ran leaner and more secure.
 
-At CHR we cut 42% of IT spend in under six months without losing capability. In fact, adoption went up because we simplified.
-
-## Principle
-
-Cost optimization isn’t about slashing budgets. It’s about killing waste so you can reinvest in growth.
+## Lessons
+- Cut noise first, not muscle.  
+- Vendors will always take advantage if you let them.  
+- Cost optimization is not one and done. It’s a quarterly discipline.  
