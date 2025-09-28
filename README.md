@@ -77,6 +77,3 @@ I’ve used them to:
 📧 **Contact**: [phillip@philliprumple.com](mailto:phillip@philliprumple.com)
 🌐 **Website**: [philliprumple.com](https://philliprumple.com)
 
-
-
-Do you want me to go ahead and start drafting the missing new files (`ai/ai-strategy.md`, `operations/ops-playbook.md`, `leadership/principles.md`, `mentorship/*`, etc.) with your voice, so the repo is actually populated — or would you rather lock in the structure first?
