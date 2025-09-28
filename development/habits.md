@@ -1,10 +1,10 @@
 # Coding Habits
 *Stay sharp, even when leadership eats your calendar.*
 
-## 🚩 Context
+##  Context
 As a technologist in leadership, most of my commits are reviews, fixes, or architecture notes. I don’t live in code 12 hours a day anymore, but I make damn sure I don’t lose touch with it.
 
-## 🔧 Habits
+## Habits
 - **Read daily**  
   Even if I don’t write much, I read code every day. Pull requests, architecture diffs, bug fixes. Keeps my brain tuned.
 
@@ -20,8 +20,8 @@ As a technologist in leadership, most of my commits are reviews, fixes, or archi
 - **Lead by example**  
   Code review is leadership. When I comment, I explain why—not just what.
 
-## 📈 Example
+##  Example
 At CHR, I fixed serialization issues on an API integration nobody else wanted to touch. It wasn’t glamorous, but it unblocked a team and showed I was still in the game.
 
-## 💡 Lessons
+## Lessons
 You don’t need to commit daily to stay sharp. You need discipline to keep reading, learning, and contributing in ways that move the team forward.
