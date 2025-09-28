@@ -1,21 +1,21 @@
 # GPU Infrastructure for AI Workloads
 
-## 🏢 Context
-Most startups jump into AI infra blind: they overspend on cloud GPUs, underestimate networking, or get locked into hyperscaler contracts. My approach has been battle-tested scaling clusters from single-GPU rigs → multi-node, multi-GPU clusters running real-time inference.
+## Context
+Most startups burn cash on GPUs because they don’t know better. They jump to H100s on AWS, rack up insane bills, and then wonder why their margins suck. I’ve scaled clusters from single cards to multi-node rigs running real-time inference. Here’s what actually works.
 
-## 🔧 Principles
-- **Right-size first** – Never start with H100s. Start with A6000s or A100s depending on workload.  
-- **Mixed-use clusters** – Dedicate GPUs (1–2) for training, others for inference. Scale only when utilization hits 70%+.  
-- **Scale stepwise** – 2 → 4 → 6 → 8 GPU clusters. Don't leapfrog ahead without profit margin to justify.  
-- **Separate training vs. inference** – Long-term goal: clusters dedicated to each, but mixed until revenue allows.  
+## Principles
+- Start with what fits your workload. You don’t need H100s out the gate. A6000s or A100s will get you far cheaper.  
+- Mix usage until revenue justifies split clusters. One or two cards for training, the rest for inference.  
+- Scale step by step. 2 GPUs, then 4, then 6, then 8. Don’t leap ahead unless profit margins cover it.  
+- Long term, training and inference belong on separate clusters... but until you’ve got recurring revenue, keep it mixed.
 
-## 📈 Example
-- 3× RTX A6000 cluster: 1 GPU dedicated to training, 2 to inference.  
-- Scaled to 4× A6000: 2 training, 2 inference.  
-- Medium-term: dual 4× A100 servers at $4,998/mo for faster fine-tuning.  
-- Long-term: 3× 8× A6000 clusters, split between training + inference once profit margins justify.  
+## Example
+- 3x RTX A6000 cluster. One GPU running training jobs. Two on inference.  
+- At 4x GPUs, split it evenly: 2 training, 2 inference.  
+- When profits cover it, add dual 4x A100 servers at ~$5K/month. Faster fine-tuning, way more efficient.  
+- Long term target: three 8x A6000 clusters. Dedicated training on one side, inference on the other. Only when client revenue makes it worth it.
 
-## 💡 Lessons
-- Revenue before scale.  
-- Profit margin dictates infra growth.  
-- GPU scaling isn’t about raw power — it’s about balancing **speed, cost, and client deliverables**.  
+## Lessons
+- Revenue comes before scale.  
+- Margins decide infra growth, not hype.  
+- Scaling GPUs isn’t about raw power. It’s about balancing speed, cost, and client deliverables.
