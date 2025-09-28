@@ -1,62 +1,46 @@
 # SOP Template
-*Standard Operating Procedures that people actually read.*
+SOPs should be simple. If they’re 40-page binders nobody reads, they’re useless.  
 
-Too many orgs think SOPs are 40-page PDFs nobody ever looks at again. That’s why their processes keep breaking. A real SOP should be short, actionable, and alive.  
+A real SOP tells people why the process matters, who owns it, and what the steps are. That’s it. One page if possible. If it takes longer, link out to scripts or configs, don’t jam them in.
 
-## 🎯 Purpose
-- Capture the “why” — if you don’t say why it matters, people will ignore it.  
-- Provide a repeatable set of steps that reduce mistakes and re-work.  
-- Establish ownership so the process doesn’t rot.  
-
-## 📂 Structure
-
+## Structure
 **Title:** [Process Name]  
 **Owner:** [Role / Team]  
 **Last Updated:** [Date]  
 
 ### 1. Purpose
-Explain why this SOP exists. What problem does it prevent? What outcome does it guarantee?  
+Why this SOP exists. What problem it prevents or what outcome it guarantees.  
 
 ### 2. Scope
-Who this SOP applies to. (Teams, roles, or functions.)  
+Who this applies to. Teams, roles, functions.  
 
 ### 3. Steps
-List out the steps. Keep it short, clear, and numbered.  
+1. Step one  
+2. Step two  
+3. Step three  
 
-1. Step one (action, tool, or trigger)  
-2. Step two (expected output)  
-3. Step three (handoff or completion)  
+Keep it tight. If people need a 20-step guide, they won’t follow it anyway.  
 
 ### 4. Exceptions
-Edge cases, alternate paths, or “don’t do this unless…”  
+Edge cases. “Only do this if…”  
 
 ### 5. Review Cycle
-How often it should be updated, and by who.  
+Who reviews it and how often. Quarterly works.  
 
----
-
-## 💡 My Notes
-- Keep SOPs on a single page whenever possible.  
-- Link out to scripts, configs, or screenshots — don’t jam them into the doc.  
-- Review quarterly. If it’s not reviewed, assume it’s stale.  
-- If there’s no **owner**, it’s not an SOP. It’s just a note.  
-
----
-
-## 📝 Example
+## Example
 **Title:** Password Reset Requests  
 **Owner:** IT Support Lead  
 **Last Updated:** Sept 2025  
 
 1. Verify user identity against HR system.  
-2. Reset password in directory service.  
+2. Reset password in directory.  
 3. Force MFA re-enrollment.  
-4. Send confirmation email and close ticket.  
+4. Send confirmation email. Close ticket.  
 
 Exceptions: C-level requires manual approval from CIO.  
-Review Cycle: Quarterly, by IT Security Lead.  
+Review Cycle: Quarterly by IT Security Lead.  
 
----
-
-## 🚨 Reminder
-SOPs without a “why” become ignored checklists. Always capture why the process exists and who owns it.
+## Notes
+- If there’s no “why,” nobody cares.  
+- If there’s no owner, it will rot.  
+- One page beats ten every time.  
