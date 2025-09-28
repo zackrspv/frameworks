@@ -1,29 +1,22 @@
 # Workflow Automation
-*When to automate, when to kill, and how to blueprint it right.*
+Don’t automate junk. Fix the workflow first.
 
-Not every workflow should be automated. Some should be deleted outright. Others are better served by a two-line script than by a $10K automation suite. My approach is about clarity: simplify, then automate what’s left, and only scale with AI when it truly adds value.
+A lot of companies love to brag about “automation” but all they’ve done is make broken processes run faster. That’s not automation, that’s waste on autopilot.
 
-## 🚩 The Problem
-Most companies treat automation like a magic wand. They pile bad processes into Zapier, Power Automate, or n8n and think “done.” All they’ve done is make broken workflows run faster.
+## How I Approach It
+1. Map the process. See what’s really happening, not what people think happens.  
+2. Kill steps that don’t matter. If it adds no value, delete it.  
+3. Script the small stuff. A 2-line script is better than paying for another SaaS tool.  
+4. Automate the repeatable handoffs. That’s where n8n, Zapier, Airflow actually help.  
+5. Bring in AI only where judgment is needed — classifying, summarizing, generating. Not copy-paste work.  
+6. Blueprint everything. Diagram it, document it, and assign an owner. If nobody owns it, it’s a ticking time bomb.  
 
-## 🔧 My Approach
-1. **Audit First** – Map the process step-by-step. Ask: does this step even need to exist?  
-2. **Kill Steps** – If a step doesn’t add value, delete it. No point automating waste.  
-3. **Script Before SaaS** – If one script does the job, write the script. Don’t drag in another subscription unless scale demands it.  
-4. **Automate the Repetitive** – Use automation frameworks (n8n, Zapier, Airflow) for predictable, repeatable handoffs.  
-5. **AI for Judgment Calls** – Use AI only where human-like interpretation is needed: classifying data, summarizing notes, generating next steps.  
-6. **Blueprint It** – Every automation should leave behind a diagram and a doc: triggers, steps, error paths, and owners.  
+## Examples
+- At CHR, staff wasted hours manually exporting Compass contacts. One n8n flow fixed it in minutes.  
+- At SoMee AI, scripts couldn’t cut it. We used AI for real-time transcription and moderation, because that needed interpretation, not repetition.  
 
-## 📊 Example
-- At CHR, we automated Compass contact exports. Before automation, 3 staff wasted hours weekly. After automation, one n8n flow pulled, cleaned, and exported records in minutes. ROI was instant.  
-- At SoMee AI, we used AI for real-time moderation and transcription. Couldn’t be done with scripts alone. That’s where AI belongs: judgment, not copy-paste.  
-
-## 🧭 Principles
-- Don’t automate chaos. Fix the workflow first.  
-- Automate what’s predictable. Script what’s simple. Use AI where judgment is needed.  
-- Every automation must have an owner, a doc, and a rollback plan.  
-
-## 💡 Lessons
-- Automation is a tool, not the goal.  
-- Blueprints prevent black-box automations that nobody understands.  
-- If you can’t explain what it does in plain language, you don’t own it — it owns you.  
+## Lessons
+- Don’t automate chaos. Simplify first.  
+- Scripts are faster and cheaper when the problem is small.  
+- AI has a place, but only when human-like judgment is required.  
+- Every automation needs a doc and a rollback plan. No exceptions.  
