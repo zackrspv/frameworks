@@ -1,19 +1,27 @@
-# Development Habits
+# Coding Habits
+*Stay sharp, even when leadership eats your calendar.*
 
-## Problem
-Too many devs (and even leaders) write code in a vacuum. They chase clever solutions, forget the team, or ship without considering adoption. That’s how you end up with broken pipelines, angry users, and tech debt nobody wants to touch.
+## 🚩 Context
+As a technologist in leadership, most of my commits are reviews, fixes, or architecture notes. I don’t live in code 12 hours a day anymore, but I make damn sure I don’t lose touch with it.
 
-## Habits I Push
-- **Code Reviews Matter** – Don’t skip them. Most of my commits are reviews and clarifications, not raw features. Catching the “why” and “how” early prevents cleanup later.
-- **Clarity Over Clever** – Write code your team can pick up tomorrow without you. If you’re the only one who understands it, you failed.
-- **Incremental > Massive** – Small PRs win every time. Easier to test, easier to roll back.
-- **Document As You Go** – Doesn’t have to be novels. A one-liner in the repo explaining context beats silence.
-- **Think Like Ops** – Your code runs in production. Don’t leave deployment, monitoring, and rollback as afterthoughts.
+## 🔧 Habits
+- **Read daily**  
+  Even if I don’t write much, I read code every day. Pull requests, architecture diffs, bug fixes. Keeps my brain tuned.
 
-## Example
-At CHR, zPortal wasn’t about me hammering out new features every day. It was about reviewing others’ code, fixing where things drifted, and making sure changes actually aligned with the business. That clarity kept the system stable even with a small team.
+- **Fix small things**  
+  I’ll jump in for edge-case fixes, cleanup commits, or clarity refactors. These tiny commits show the team I still code and also keep me sharp.
 
-## Lessons
-- Code isn’t art. It’s a tool.
-- Habits compound. Good reviews, small PRs, and clear notes save months of pain.
-- If your code makes you look smart but slows down the team, you’re doing it wrong.
+- **Sandbox learning**  
+  I use private repos to test new frameworks, not client codebases. Keeps experiments safe.
+
+- **Context switching**  
+  I document what I touch. Nothing worse than a leader who changes a line of code without leaving breadcrumbs.
+
+- **Lead by example**  
+  Code review is leadership. When I comment, I explain why—not just what.
+
+## 📈 Example
+At CHR, I fixed serialization issues on an API integration nobody else wanted to touch. It wasn’t glamorous, but it unblocked a team and showed I was still in the game.
+
+## 💡 Lessons
+You don’t need to commit daily to stay sharp. You need discipline to keep reading, learning, and contributing in ways that move the team forward.
