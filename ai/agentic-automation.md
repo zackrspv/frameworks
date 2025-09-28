@@ -1,25 +1,22 @@
-# Agentic Automation & Verification
-*Automation without guardrails is chaos.*
+# Agentic Automation
 
-## 🚩 The Problem
-Most companies rush automation → security gaps, compliance issues, or angry customers. If your AI can cancel subscriptions without verification, you’ve already lost.
+## Problem
 
-## 🔧 Framework
-- **Session-Based Verification** – Verification tied to session (`call_id` in my Synthflow design).  
-- **Multi-Factor Checks** – Email or phone + passphrase. Always two pieces of data.  
-- **Scoped Access** – Verification applies only to current session, never persists.  
-- **Guardrail Prompts** – Every API response reinforces what AI can/can’t say.  
-- **Fail Secure** – If verification fails, automation stops. Period.  
+Most companies roll out “AI agents” like toys. Shiny demos, nothing in production, no guardrails. That’s not strategy. That’s theater.
 
-## 📈 Example
-At Nulids (Shopify + Recurpay integration), I built a verification flow that:
-- Scoped verification to `call_id` only.  
-- Required passphrase enforcement before any subscription/order access.  
-- Rejected all requests if verification was false.  
+## Framework
 
-Yes, it meant 30+ API calls per convo, but compliance > convenience.
+1. **Map workflows** – If you don’t know the process, you can’t automate it.
+2. **Kill steps first** – If a step doesn’t need to exist, don’t automate it. Delete it.
+3. **Pilot small** – Test with one team, one process. Measure.
+4. **Layer governance** – Add approval flows where needed (finance, HR, legal).
+5. **Scale smart** – Roll out only where it sticks, not everywhere at once.
 
-## 💡 Lessons
-- Automation without boundaries creates liability.  
-- Guardrails must be technical, not just policy.  
-- Security and adoption can coexist if you keep flows simple and human-friendly.
+## Example
+
+* Automated client review reminders in zPortal: tied into CRM, pulled closing dates, sent review requests on schedule. Result: agent adoption went up, client reviews doubled, no one had to remember.
+* Tried auto-summaries for deal notes, but killed it after testing because agents ignored them. Right call.
+
+## Principle
+
+Automation without governance is chaos. Automation without adoption is wasted effort.
